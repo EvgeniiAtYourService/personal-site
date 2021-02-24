@@ -1,0 +1,150 @@
+/* Tag Selectors */
+
+body {
+  margin: 0;
+  text-align: center;
+  line-height: 2;
+}
+
+h1 {
+  color: #66BFBF;
+  margin: 50px auto 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+}
+
+h2 {
+  color: #66BFBF;
+  margin: 100px auto;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+hr {
+  border-color: #EAF6F6;
+  border-style: dotted;
+  border-width: 1rem 0 0 0;
+  margin: auto;
+  width: 7%;
+}
+
+p {
+  color: #40514E;
+  font-family: 'Merriweather', serif;
+  font-weight: 800;
+}
+
+a {
+  color: #11999E;
+}
+
+/* CLass Selectors */
+
+.bottom-hr {
+  margin: 8rem auto;
+}
+
+.hello {
+  margin: 50px auto;
+}
+
+.get-in-touch {
+  margin: 100px auto 50px;
+}
+
+.top-container {
+  background-color: #e4f9f5;
+  padding-top: 100px;
+  position: relative;
+}
+
+.profile {
+  margin: 100px auto;
+}
+
+.profile-photo {
+  width: 20%;
+}
+
+.cloud-top {
+  position: absolute;
+  top: 50px;
+  right: 500px;
+}
+
+.cloud-bottom {
+  position: absolute;
+  left: 500px;
+  bottom: 300px;
+}
+
+.since {
+  text-decoration: underline;
+}
+
+.skill-row {
+  line-height: 2;
+  margin: 100px auto;
+  text-align: left;
+  width: 50%;
+}
+
+
+.skill-photos {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skills-photos-right {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.contact-me {
+  margin-bottom: 100px;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 50px;
+}
+
+.footer-link {
+  margin: 5px;
+  text-decoration: none;
+  font-size: 1.2rem;
+}
+
+.footer-link:hover {
+  color: #EAF6F6;
+}
+
+.BUTTON_IAM {
+   background: #11999E;
+   background-image: -webkit-linear-gradient(top, #11999E, #66BFBF);
+   background-image: -moz-linear-gradient(top, #11999E, #66BFBF);
+   background-image: -ms-linear-gradient(top, #11999E, #66BFBF);
+   background-image: -o-linear-gradient(top, #11999E, #66BFBF);
+   background-image: -webkit-gradient(to bottom, #11999E, #66BFBF);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FFFFFF;
+   font-family: Arial;
+   font-size: 25px;
+   font-weight: 100;
+   margin: 40px auto;
+   padding: 10px 30px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
