@@ -1,5 +1,5 @@
 # Personal Site
-https://evgeniiatyourservice.github.io/evgeniipersonalsite/
+https://evgeniiatyourservice.github.io/personal-site/
 
 Simple personal site 
 
